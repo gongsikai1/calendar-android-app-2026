@@ -1,0 +1,4 @@
+// 顶层构建脚本：Android Studio 直接 Open 本目录即可
+plugins {
+    id 'com.android.application' version '8.1.4' apply false
+}
